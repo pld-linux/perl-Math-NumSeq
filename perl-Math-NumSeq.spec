@@ -4,7 +4,6 @@
 #
 %define		pdir	Math
 %define		pnam	NumSeq
-%include	/usr/lib/rpm/macros.perl
 Summary:	Math::NumSeq -- number sequences
 Name:		perl-Math-NumSeq
 Version:	71
