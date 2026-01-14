@@ -7,7 +7,7 @@
 Summary:	Math::NumSeq -- number sequences
 Name:		perl-Math-NumSeq
 Version:	71
-Release:	2
+Release:	3
 License:	GPL
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Math/%{pdir}-%{pnam}-%{version}.tar.gz
