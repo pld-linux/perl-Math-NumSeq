@@ -6,12 +6,12 @@
 %define		pnam	NumSeq
 Summary:	Math::NumSeq -- number sequences
 Name:		perl-Math-NumSeq
-Version:	71
-Release:	3
+Version:	75
+Release:	1
 License:	GPL
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Math/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	c3d6104e4ce98cbb2b46239ed258c2cf
+# Source0-md5:	42f2df63ccf3f3cfa7ff2297682b4f75
 URL:		http://search.cpan.org/dist/Math-NumSeq/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
